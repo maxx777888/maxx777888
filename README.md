@@ -13,7 +13,7 @@
 
 ## Мои проекты
 [![Excel Icon](https://cdn-icons-png.flaticon.com/32/732/732220.png)](https://github.com/maxx777888/QuikDataCal) [Quik обработка данных](https://github.com/maxx777888/QuikDataCal)  
-   - **Описание:** Получение данных из торговой программы Quick, работа с данными (анализ, сортировка и подбор параметров) и выдача результата в виде таблицы Excel c готовыми формулами в ячейках и с готовым стилем. 
+   - **Описание:** Получение данных из торговой программы Quik, работа с данными (анализ, сортировка и подбор параметров) и выдача результата в виде таблицы Excel c готовыми формулами в ячейках и с готовым стилем. 
    - **Технологии:** C++, библиотеки OpenXLSX, XLNT, STL
 
 [![Airplane Icon](https://cdn-icons-png.flaticon.com/32/149/149059.png)](https://github.com/maxx777888/QtHomeW/tree/main/CourseProject) [Планировщик перелетов](https://github.com/maxx777888/QtHomeW/tree/main/CourseProject)  
