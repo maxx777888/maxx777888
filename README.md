@@ -18,7 +18,7 @@
 
 [![Airplane Icon](https://cdn-icons-png.flaticon.com/32/149/149059.png)](https://github.com/maxx777888/QtHomeW/tree/main/CourseProject) [Планировщик перелетов](https://github.com/maxx777888/QtHomeW/tree/main/CourseProject)  
    - **Описание:** Приложение позволяющее просматривать расписание авиарейсов и оценивать загруженность различных аэропортов
-   - **Технологии:** C++, Qt, PostgreSQL
+   - **Технологии:** C++, Qt, PostgreSQL, QCustomPlot
 
 [![Search Icon](https://cdn-icons-png.flaticon.com/32/622/622669.png)](https://github.com/maxx777888/dpSearchSystem) [Поисковая система](https://github.com/maxx777888/dpSearchSystem)
    - **Описание:** Аналог поисковой системы Google, получение данных с сайта, вычисление поискового индекса и настройка релевантной выдачи результата.
